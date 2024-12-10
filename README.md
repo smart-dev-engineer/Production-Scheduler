@@ -31,4 +31,10 @@ interface 파이썬 파일 실행 -> 스케줄링 하기 선택 -> 제품정보 
 작업시간 : 제품별 작업시간입력
 셋업시간 : A->B 제품 변경간에 셋업시간
 
+
+라인별 결과 엑셀 시트
+![image](https://github.com/user-attachments/assets/81be9cc2-ff8d-428e-90c9-56fe3836e10d)
+
+간트차트 결과 시각화
+
 ![image](https://github.com/user-attachments/assets/fe754609-9fe4-400f-b17a-d024cfaa7f4e)
