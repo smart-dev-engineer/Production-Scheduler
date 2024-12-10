@@ -1,5 +1,4 @@
-# Dispatching
-
+# Production Scheduler(행성과제)
 MIP를 활용한 생산스케줄러
 
 진행과정
