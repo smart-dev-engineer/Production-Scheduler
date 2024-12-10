@@ -90,7 +90,7 @@ class DateSelectionDialog(simpledialog.Dialog):
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("(주)행성 김해공장 스케줄러")
+        self.title("스케줄러")
         self.geometry("1400x850")
         self.frames = {}
 
@@ -181,7 +181,7 @@ class StartPage(tk.Frame):
         labe_font = ('현대하모니 L', 40, 'bold')
         
         
-        label = tk.Label(self, text="김해공장 스케줄러",font=labe_font, borderwidth=0, relief="ridge", fg = '#9CCDDB')
+        label = tk.Label(self, text="스케줄러",font=labe_font, borderwidth=0, relief="ridge", fg = '#9CCDDB')
         label.place(x=40, y=20)
         label.configure(bg = "#064469")
         
