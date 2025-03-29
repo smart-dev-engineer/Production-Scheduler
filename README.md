@@ -7,7 +7,6 @@ interface 파이썬 파일 실행 -> 스케줄링 하기 선택 -> 제품정보 
 -> 데이터 불러오기 -> 데이터 구조화 -> 제약식 설정 -> 스케줄시작(생산 시작시간 설정 -> 생산계획 계산 시간)
 -> 엑셀불러오기(결과엑셀파일 저장) -> 간트차트 불러오기(간트차트 파일 저장)
 
-![image](https://github.com/user-attachments/assets/70926529-26d4-4821-942a-1c830edb2809)
 ![image](https://github.com/user-attachments/assets/3f7dc571-1398-4b7a-bf94-d941f301d17d)
 
 
